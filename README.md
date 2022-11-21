@@ -242,7 +242,7 @@ the complexity of community dynamics in microbiomes, and the extent to
 which interactions within them can alter both the selective landscape of
 host-microbiome interactions, and their effects on host plants.
 
-**9:55am Amy Angert \| Departments of Botany and Zoology, UBC**
+**9:55am Amy Angert \| University of British Columbia**
 
 *Duckweed mesocosms for range dynamics*
 
@@ -281,8 +281,7 @@ microbiomes, over a range of environmental conditions. We find that the
 overall effect of the microbiome is to suppress plant fitness which is
 accompanied by several phenotypic modifications.
 
-**2:25pm Takuji Usui \| Biodiversity Research Centre, University of
-British Columbia**
+**2:25pm Takuji Usui \| University of British Columbia**
 
 *The evolution of coexistence across the species boundary*
 
@@ -303,8 +302,7 @@ evolves across diverging lineages, we begin to unravel how coexistence
 mechanisms themselves can operate as a route for speciation and the
 origin of coexisting species.
 
-**2:50pm Jiaqi Tan \| Department of Biological Sciences, Louisiana State
-University**
+**2:50pm Jiaqi Tan \| Louisiana State University**
 
 *Trophic interactions in microbiomes determine plant host fitness*
 
@@ -327,3 +325,5 @@ for predicting the outcomes of plant-microbiome interactions.
 **3:45pm Discussion**
 
 **4:45pm Closing remarks**
+
+**5pm End**

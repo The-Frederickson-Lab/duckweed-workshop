@@ -96,7 +96,7 @@ Duckweeds are successful in colonizing diverse environments, despite their lack 
  
 Microbiomes can benefit hosts by conferring resistance to pathogens, improving stress tolerance, or promoting growth. We explored host-microbiome interactions using the common duckweed Lemna minor and a simplified synthetic microbiome. We evaluated the effects of individual microbial strains and entire microbial communities on duckweed growth and microbial cell density. Across three populations of L. minor, we observed substantial variation in strain effects on host growth and found that the effects of synthetic microbial communities could not be predicted from individual strains. In most cases, simplified microbial communities were more productive, and more beneficial to plant hosts, than the mean (additive) effect of individual strains. In one population, we instead found that the presence of a single highly pathogenic strain likely determined the sub-additive effect of its microbiome. These results highlight the importance of evaluating the effects of microbiomes on host plants at both the individual strain level and at the level of whole communities, where cooperative, non-additive internal dynamics may shape their effects on host plants. We also evaluated the extent of fitness alignment between microbes and duckweeds and found evidence of broadly correlated fitness interests. However, the strength of this correlation varied across microbes, and the fitness of some of the most beneficial bacteria were neutrally, or even negatively correlated with L. minor fitness. Our results speak to the complexity of community dynamics in microbiomes, and the extent to which interactions within them can alter both the selective landscape of host-microbiome interactions, and their effects on host plants.
 
-**9:55am Amy Angert | Departments of Botany and Zoology, UBC**
+**9:55am Amy Angert | University of British Columbia**
 
 *Duckweed mesocosms for range dynamics*
 
@@ -120,13 +120,13 @@ Whole-genome duplication is a common macromutation across the tree of life and e
 
 Much recent work has focused on characterising the mutualistic elements of the duckweed microbiome, often aiming to identify bacterial strains that can increase plant fitness. Here we assess the fitness and phenotypic consequences of the full intact microbiome for L. minor by assaying plants from several sites, with and without their natural microbiomes, over a range of environmental conditions. We find that the overall effect of the microbiome is to suppress plant fitness which is accompanied by several phenotypic modifications.
 
-**2:25pm Takuji Usui | Biodiversity Research Centre, University of British Columbia**
+**2:25pm Takuji Usui | University of British Columbia**
 
 *The evolution of coexistence across the species boundary*
 
 The entirety of Earth’s ~8.7 million extant species are the outcome of two processes: the creation of new lineages by speciation, and the persistence of these lineages by ecological coexistence. To understand the origins of biodiversity, evolutionary biology has primarily focused on the causes and means of speciation. However, we know less about the evolution and mechanisms of coexistence across diverging lineages. Here, we quantify the evolutionary trajectory of coexistence within diverging lineages, to across the species boundary. We parameterized coexistence by quantifying the mutual invasion criteria in ~3000 invasion experiments across 127 unique lineages of the duckweeds Spirodela polyrhiza and Spirodela intermedia. We present how coexistence mechanisms (i.e., differences in niche and competitive ability) evolve with genetic and spatial distance. By considering how persistence evolves across diverging lineages, we begin to unravel how coexistence mechanisms themselves can operate as a route for speciation and the origin of coexisting species.
 
-**2:50pm Jiaqi Tan | Department of Biological Sciences, Louisiana State University**
+**2:50pm Jiaqi Tan | Louisiana State University**
 
 *Trophic interactions in microbiomes determine plant host fitness*
 
@@ -137,3 +137,5 @@ Plant microbiomes are composed of various microorganisms, including prokaryotes,
 **3:45pm Discussion**
 
 **4:45pm Closing remarks**
+
+**5pm End**
