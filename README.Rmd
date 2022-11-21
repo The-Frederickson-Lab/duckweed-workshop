@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE, dev='png'}
 library(here)
-htmltools::img(src = knitr::image_uri(here("Slide1.jpg")), alt = 'logo')
+#htmltools::img(src = knitr::image_uri(here("Slide1.jpg")), alt = 'logo')
 ```
 
 ## Meeting Location
