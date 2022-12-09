@@ -1,6 +1,6 @@
 ---
 title: "Duckweeds and microbes:  \na new frontier in symbiosis research"
-date: "Tentative meeting program as of `r format(Sys.time(), '%b %d, %Y')`"
+date: "Meeting program as of `r format(Sys.time(), '%b %d, %Y')`"
 output: github_document
 editor_options: 
   chunk_output_type: console
@@ -14,13 +14,16 @@ library(here)
 #htmltools::img(src = knitr::image_uri(here("Slide1.jpg")), alt = 'logo')
 ```
 
-## Meeting Location
+### Meeting Location
 
 The meeting will take place in the Upper Library at [Massey College](https://www.masseycollege.ca/), located at [4 Devonshire Place, Toronto ON M5S 2E1](https://goo.gl/maps/Meh8ex9ic5cpZmr6A)
 
 ## Monday, December 12
 
 **9:00am Continental Breakfast**
+
+### First session 
+Moderator: Jason Laurich
 
 **9:30am Megan Frederickson | University of Toronto**
 
@@ -42,6 +45,10 @@ As some of the smallest and fastest growing plants on Earth, duckweeds typically
 
 **10:45am Break**
 
+### Second session 
+
+Moderator: Megan Frederickson
+
 **11:10am Blair Subbaraman | University of Washington**
 
 *Custom workflow automation using Jubilee: duckweed growth assays as a case study*
@@ -54,7 +61,11 @@ Machine automation can boost precision, reproducibility and efficiency of resear
 
 As human activities continue to change the environment at an unprecedented rate, organisms will face novel challenges in their surroundings. The excess deposition of nutrients that often result from human activities may affect the outcomes of species interactions. At low concentrations, these compounds may have positive effects on plant growth and performance. However, at higher concentrations, nutrient loading can impose stress and hamper plant performance. In this study, we tested the outcomes of duckweed-microbiome interactions across environmental gradients of nitrogen, phosphorus, and potassium. This allowed a fine-tuned resolution of the variation in plant responses to environmental stressors, as well as the identification of “optimum” nutrient levels for plant performance. In addition, we investigated the impact of nutrient stress on the composition and diversity of the duckweed microbiome.
 
-**12:00pm Lunch**
+**12:00pm Lunch** On Monday, December 12, lunch will be provided for all meeting participants at Massey College. 
+
+### Third session 
+
+Moderator: Anna O'Brien
 
 **1:30pm Melissa Chen | University of British Columbia**
 
@@ -82,13 +93,25 @@ Duckweeds are successful in colonizing diverse environments, despite their lack 
 
 **3:10pm Break**
 
-**3:40pm Discussion**
+### Discussion session 
+
+Moderator: Megan Frederickson
+
+**3:40pm Small group discussion**
+
+Discussion prompts and format will be described at the meeting.
 
 **5pm End**
+
+We have made dinner reservations at several Toronto restaurants for Monday night; details will be provided at the meeting. 
 
 ## Tuesday, December 13
 
 **9:00am Continental Breakfast**
+
+### First session 
+
+Moderator: Jessie Wang
 
 **9:30am Jason Laurich | University of Toronto**
 
@@ -96,23 +119,25 @@ Duckweeds are successful in colonizing diverse environments, despite their lack 
  
 Microbiomes can benefit hosts by conferring resistance to pathogens, improving stress tolerance, or promoting growth. We explored host-microbiome interactions using the common duckweed Lemna minor and a simplified synthetic microbiome. We evaluated the effects of individual microbial strains and entire microbial communities on duckweed growth and microbial cell density. Across three populations of L. minor, we observed substantial variation in strain effects on host growth and found that the effects of synthetic microbial communities could not be predicted from individual strains. In most cases, simplified microbial communities were more productive, and more beneficial to plant hosts, than the mean (additive) effect of individual strains. In one population, we instead found that the presence of a single highly pathogenic strain likely determined the sub-additive effect of its microbiome. These results highlight the importance of evaluating the effects of microbiomes on host plants at both the individual strain level and at the level of whole communities, where cooperative, non-additive internal dynamics may shape their effects on host plants. We also evaluated the extent of fitness alignment between microbes and duckweeds and found evidence of broadly correlated fitness interests. However, the strength of this correlation varied across microbes, and the fitness of some of the most beneficial bacteria were neutrally, or even negatively correlated with L. minor fitness. Our results speak to the complexity of community dynamics in microbiomes, and the extent to which interactions within them can alter both the selective landscape of host-microbiome interactions, and their effects on host plants.
 
-**9:55am Amy Angert | University of British Columbia**
-
-*Duckweed mesocosms for range dynamics*
-
-Abstract forthcoming. 
-
-**10:20am Martin Turcotte | University of Pittsburgh**
+**9:55am Martin Turcotte | University of Pittsburgh**
 
 *The impact of duckweed polyploidy on species interactions*
 
 Whole-genome duplication is a common macromutation across the tree of life and especially common in plants. It can cause diverse and sometimes extensive phenotypic changes but the impact of polyploidy on other community members has received less attention. Using synthetic autopolyploid duckweed, we found that polyploidy alters microbiome richness, diversity, and the composition of the ‘core’ microbiome. We also report on another project testing how duckweed polyploids differ in herbivore tolerance and sometimes influences herbivore performance.  
 
-**10:45am Break**
+**10:20am Break**
 
-**11:10am Discussion**
+### Discussion session 
 
-**12:00pm Lunch**
+**10:45am Small group discussion**
+
+Discussion prompts and format will be described at the meeting.
+
+**12:00pm Lunch** On Tuesday, December 13, we have made lunch reservation at several Toronto restaurants, to give meeting participants more of an opportunity to explore more of Toronto! Details will be provided at the meeting. 
+
+### Second session 
+
+Moderator: Jason Laurich
 
 **2:00pm Mark Jewell | McGill University**
 
@@ -134,8 +159,14 @@ Plant microbiomes are composed of various microorganisms, including prokaryotes,
 
 **3:15pm Break**
 
-**3:45pm Discussion**
+### Discussion session 
 
-**4:45pm Closing remarks**
+**3:45pm Small group discussion**
+
+Discussion prompts and format will be described at the meeting.
+
+**4:45pm Megan Frederickson | University of Toronto**
+
+*Closing remarks*
 
 **5pm End**

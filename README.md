@@ -1,9 +1,9 @@
 Duckweeds and microbes:  
 a new frontier in symbiosis research
 ================
-Tentative meeting program as of Nov 20, 2022
+Meeting program as of Dec 09, 2022
 
-## Meeting Location
+### Meeting Location
 
 The meeting will take place in the Upper Library at [Massey
 College](https://www.masseycollege.ca/), located at [4 Devonshire Place,
@@ -12,6 +12,10 @@ Toronto ON M5S 2E1](https://goo.gl/maps/Meh8ex9ic5cpZmr6A)
 ## Monday, December 12
 
 **9:00am Continental Breakfast**
+
+### First session
+
+Moderator: Jason Laurich
 
 **9:30am Megan Frederickson \| University of Toronto**
 
@@ -86,6 +90,10 @@ closely related to Lemna minor but with geographical restriction.
 
 **10:45am Break**
 
+### Second session
+
+Moderator: Megan Frederickson
+
 **11:10am Blair Subbaraman \| University of Washington**
 
 *Custom workflow automation using Jubilee: duckweed growth assays as a
@@ -126,7 +134,12 @@ nutrient levels for plant performance. In addition, we investigated the
 impact of nutrient stress on the composition and diversity of the
 duckweed microbiome.
 
-**12:00pm Lunch**
+**12:00pm Lunch** On Monday, December 12, lunch will be provided for all
+meeting participants at Massey College.
+
+### Third session
+
+Moderator: Anna O’Brien
 
 **1:30pm Melissa Chen \| University of British Columbia**
 
@@ -204,13 +217,26 @@ progression utilizing the duckweed-Pseudomonas pathosystem.
 
 **3:10pm Break**
 
-**3:40pm Discussion**
+### Discussion session
+
+Moderator: Megan Frederickson
+
+**3:40pm Small group discussion**
+
+Discussion prompts and format will be described at the meeting.
 
 **5pm End**
+
+We have made dinner reservations at several Toronto restaurants for
+Monday night; details will be provided at the meeting.
 
 ## Tuesday, December 13
 
 **9:00am Continental Breakfast**
+
+### First session
+
+Moderator: Jessie Wang
 
 **9:30am Jason Laurich \| University of Toronto**
 
@@ -242,13 +268,7 @@ the complexity of community dynamics in microbiomes, and the extent to
 which interactions within them can alter both the selective landscape of
 host-microbiome interactions, and their effects on host plants.
 
-**9:55am Amy Angert \| University of British Columbia**
-
-*Duckweed mesocosms for range dynamics*
-
-Abstract forthcoming.
-
-**10:20am Martin Turcotte \| University of Pittsburgh**
+**9:55am Martin Turcotte \| University of Pittsburgh**
 
 *The impact of duckweed polyploidy on species interactions*
 
@@ -261,11 +281,22 @@ richness, diversity, and the composition of the ‘core’ microbiome. We
 also report on another project testing how duckweed polyploids differ in
 herbivore tolerance and sometimes influences herbivore performance.
 
-**10:45am Break**
+**10:20am Break**
 
-**11:10am Discussion**
+### Discussion session
 
-**12:00pm Lunch**
+**10:45am Small group discussion**
+
+Discussion prompts and format will be described at the meeting.
+
+**12:00pm Lunch** On Tuesday, December 13, we have made lunch
+reservation at several Toronto restaurants, to give meeting participants
+more of an opportunity to explore more of Toronto! Details will be
+provided at the meeting.
+
+### Second session
+
+Moderator: Jason Laurich
 
 **2:00pm Mark Jewell \| McGill University**
 
@@ -322,8 +353,14 @@ for predicting the outcomes of plant-microbiome interactions.
 
 **3:15pm Break**
 
-**3:45pm Discussion**
+### Discussion session
 
-**4:45pm Closing remarks**
+**3:45pm Small group discussion**
+
+Discussion prompts and format will be described at the meeting.
+
+**4:45pm Megan Frederickson \| University of Toronto**
+
+*Closing remarks*
 
 **5pm End**
